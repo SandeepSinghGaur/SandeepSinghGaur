@@ -1,4 +1,4 @@
-### Hola I a'm Sandeep Singh 👋
+### Hola I'm Sandeep Singh 👋
 
 
 - 🔭 I’m currently working on Easyrewardz Software Services
