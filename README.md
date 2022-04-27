@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Easyrewardz Software Services
-- 🌱 I’m currently learning React.Js and Svelte.js
+- 🌱 I’m currently learning React.Js and Javascript
 - 👯 I’m looking to collaborate on Frontend project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React.js and tech related stuff
