@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on Easyrewardz Software Services
 - 🌱 I’m currently learning React.Js and Javascript
-- 👯 I’m looking to collaborate on Frontend project
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Frontend and backend project
+- 🤔 I’m looking for help with Java springBoot
 - 💬 Ask me about React.js and tech related stuff
 - 📫 How to reach me: https://www.linkedin.com/in/sandeep-singh-gaur/
 - 😄 Pronouns: He/His
