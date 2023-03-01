@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at NMBR Systems Private Limited
 - 🌱 I’m currently learning Microservices and Spring security.
 - 👯 I’m looking to collaborate on Frontend and backend project
-- 🤔 I’m looking for help with  Microservices 
+- 🤔 I’m looking for help with  System design
 - 💬 Ask me about Java SpringBoot Javascript and tech related stuff
 - 📫 How to reach me: https://www.linkedin.com/in/sandeep-singh-gaur/
 - 😄 Pronouns: He/His
